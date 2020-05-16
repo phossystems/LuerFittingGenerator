@@ -4,7 +4,9 @@
 	"id":	"c7766c33-d7e6-4fef-b141-9018de20d36f",
 	"author":	"Nico Schlueter",
 	"description":	{
-		"":	"Add-In for creating Luer Fittings"
+		"":	"Add-In for creating Luer Fittings.
+Privacy Policy:
+https://github.com/NicoSchlueter/LuerFittingGenerator/blob/master/AppStorePrivacyPolicy.txt"
 	},
 	"version":	"",
 	"runOnStartup":	false,
